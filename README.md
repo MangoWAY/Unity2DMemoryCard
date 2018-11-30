@@ -3,7 +3,7 @@
 ## Completed Game
 
 <div align="center">
-<img src="https://img-blog.csdnimg.cn/20181130152344347.gif">
+<img src="https://raw.githubusercontent.com/MangoWAY/Unity2DMemoryCard/master/memory.gif">
 </div>
 
 ## Description
